@@ -4,6 +4,9 @@ summary: First post. Why this blog exists and what it'll be.
 date: 2026-05-12
 authors:
   - me
+tags:
+  - meta
+  - intro
 ---
 
 This is the first post on wildcommitter.org.
